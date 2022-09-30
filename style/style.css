@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: ;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+     
+}
+header{
+    background-color: darkorange;
+    padding: 30px;
+    height: 120px;
+    opacity: 0.6;
+    width: 100%;
+}
+
+
+header li a{
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: black;
+    font-size: 18px;
+}
+
+.slaider{
+    width: 100%;
+    height: 400px;
+}
+
+.slaider img{
+    width: 100%;
+    height: 400px;
+   
+}
+.sruli{
+    margin: 60px;
+}
+
+article img{
+    height: 200px;
+    overflow: hidden;
+    width: 400px;
+
+
+}
+
+article{
+    float: left;
+    width: 400px;
+}
+
+section{
+    padding: 10px;
+}
+
+.statia{
+    background-color: darkorange;
+    
+}
+
+.gadasvla::after{
+    content: "...";
+}
+
+
+.statia1{
+    background-color: #FFC700;
+}
+
+
+.statia2{
+    background-color: #FFE600;
+}
+
+
+footer p{
+    clear: both;
+    padding: 30px;
+
+}
+
+/* ------------------------------------------------------ */
+
+
+.pirveli ::before{
+    content: "<<";
+}
+
+
+.saxeli h2{
+    height: 150px;
+}
+.saxeli{
+    width: 100%;
+    background-color:#FF9900 ;
+    padding-top: 20px;
+
+}
+
+
+
+
+.about{
+    width: 100%;
+    height: 1000px;
+    background-color: #FF9900;
+}
+
+.about article{
+    float: left;
+}
+
+.texti{
+    height: 300px;
+    width: 1200px;
+    padding: 20px;
+    
+}
+/* 
+*{
+    -------------------------------------------------
+} */
+
+
+.saxeli1{
+    width: 100%;
+    background-color: #FFC700;
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+}
+
+
+
+
+.aboutt{
+    width: 100%;
+    height: 900px;
+    background-color: #FFC700;
+}
+
+.aboutt article{
+    float: left;
+}
+
+.saxeli{
+    height: 300px;
+    width: 1200px;
+    padding: 20px;
+    
+}
+
+
+/* 
+*[
+    ----------------------------------------------------- */
+
+
+    
+    .siaxle{
+        width: 100%;
+        background-color: #FFE600
+        padding-top: 40px;
+        padding-bottom: 50px;
+    
+    }
+    
+    
+    
+    
+    .about3{
+        width: 100%;
+        height: 900px;
+        background-color: #FFE600
+    }
+    
+    .aboutt article{
+        float: left;
+    }
+    
+    .saxeli{
+        height: 300px;
+        width: 1200px;
+        padding: 20px;
+        
+    }
+
